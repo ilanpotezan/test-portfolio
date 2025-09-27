@@ -89,3 +89,5 @@ also works on windows without cygwin.
 - no lookahead/lookbehind (use perl if you need that)
 
 MIT • solo project by someone tired of sed tutorials
+
+# Touch update: 1760741718
